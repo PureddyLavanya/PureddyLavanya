@@ -1,6 +1,7 @@
 <p align="center">
 <h2 align="center">I'am Pureddy Lavanya</h2>
 
+![](https://komarev.com/ghpvc/?username=PureddyLavanya)
 - 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning MERN,Django
 - 👯 I’m looking to collaborate on open source project
