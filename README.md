@@ -31,7 +31,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureddyLavanya&theme=dark&hide_langs_below=1" />
 </a>
 <br>
-![PureddyLavanya's github stats](https://github-readme-stats.vercel.app/api?username=PureddyLavanya&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2&hide=["issues"])
+![PureddyLavanya's github stats](https://github-readme-stats.vercel.app/api?username=PureddyLavanya&show_icons=true&hide=["issues"])
 <br><br>
 [![HitCount](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya.svg)](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya)
 <br>
