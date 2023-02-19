@@ -35,7 +35,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PureddyLavanya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
  </a>
 <br><br>
-[![HitCount](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya.svg)](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya)
+[![HitCount](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya.svg)] (http://hits.dwyl.com/PureddyLavanya/PureddyLavanya)
 <br>
 
 ⭐️ From PureddyLavanya (https://github.com/PureddyLavanya)
