@@ -36,7 +36,7 @@
  </a>
 <br><br>
 
-[![HitCount](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya.svg)] (http://hits.dwyl.com/PureddyLavanya/PureddyLavanya)
+[!HitCount(http://hits.dwyl.com/PureddyLavanya/PureddyLavanya.svg)] (http://hits.dwyl.com/PureddyLavanya/PureddyLavanya)
 <br>
 
 ⭐️ From PureddyLavanya (https://github.com/PureddyLavanya)
