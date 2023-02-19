@@ -16,13 +16,13 @@
 
 - ⚡ Fun fact:Never miss debugging your code
 
-<a href="https://github.com/PureddyLavanya">
+<p align="center"><a href="https://github.com/PureddyLavanya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureddyLavanya&theme=dark&hide_langs_below=1" />
-</a>
+</a></p>
 
-<br>
-<a href="https://github.com/PureddyLavanya">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=PureddyLavanya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<br><br>
+<p align="center"><a href="https://github.com/PureddyLavanya">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=PureddyLavanya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></p>
 </a>
 </p>
 
