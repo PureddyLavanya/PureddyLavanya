@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on open source project
 
--👨‍💻 All of my projects are available at [https://github.com/PureddyLavanya](https://github.com/PureddyLavanya)
+- 👨‍💻 All of my projects are available at [https://github.com/PureddyLavanya](https://github.com/PureddyLavanya)
 
 - 💬 Ask me about html,css,javascript
 
@@ -16,14 +16,13 @@
 
 - ⚡ Fun fact:Never miss debugging your code
 
-<p align="center"><a href="https://github.com/PureddyLavanya">
+<a href="https://github.com/PureddyLavanya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureddyLavanya&theme=dark&hide_langs_below=1" />
-</a></p>
+</a>
 
-<br><br>
+
 <p align="center"><a href="https://github.com/PureddyLavanya">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PureddyLavanya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></p>
 </a>
-</p>
 
 
