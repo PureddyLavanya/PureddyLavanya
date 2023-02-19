@@ -32,7 +32,7 @@
 </a>
 
 ![PureddyLavanya's github stats](https://github-readme-stats.vercel.app/api?username=PureddyLavanya&show_icons=true&hide=["issues"])
-</a>
+<br>
 <br><br>
 [![HitCount](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya.svg)](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya)
 
