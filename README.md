@@ -36,8 +36,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PureddyLavanya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
  </a>
 <br><br>
- My Stats
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-PureddyLavanya&theme=dark&background=000000)](https://PureddyLavanya/git.io/streak-stats)
  
 [![HitCount](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya.svg)](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya)
 <br>
