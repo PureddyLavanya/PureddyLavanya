@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=PureddyLavanya)
 - 🔭 I’m currently working on improving my skills
 
-- 🌱 I’m currently learning MERN,Django
+- 🌱 I’m currently learning MERN,Django,Python 
 
 - 👯 I’m looking to collaborate on open source project
 
