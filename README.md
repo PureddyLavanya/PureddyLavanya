@@ -43,6 +43,7 @@
 ##  Contact Me :speech_balloon:
  [![Linkedin Badge](https://img.shields.io/badge/-PureddyLavanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-lavanya-3147p/)](https://www.linkedin.com/in/p-lavanya-3147p/) 
 [![Gmail Badge](https://img.shields.io/badge/-pureddylavanya2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pureddylavanya2002@gmail.com)](mailto:pureddylavanya2002@gmail.com) 
+[![GitHub followers](https://img.shields.io/github/followers/PureddyLavanya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PureddyLavanya?tab=followers)
 
 
 ⭐️ From <a href="https://github.com/PureddyLavanya">PureddyLavanya</a>
