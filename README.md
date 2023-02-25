@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureddyLavanya&theme=dark&bg_color=8A2BE2&text_color=ivory&title_color=fff&icon_color=FFD700&hide_langs_below=1" />
 </a>
 <br><br>
-<a href="https://github.com/PureddyLavanya">![PureddyLavanya's github stats](https://github-readme-stats.vercel.app/api?username=PureddyLavanya&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
+<a href="https://github.com/PureddyLavanya">![PureddyLavanya's github stats](https://github-readme-stats.vercel.app/api?username=PureddyLavanya&show_icons=true&title_color=ivory&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
  </a>
 <br><br>
  
