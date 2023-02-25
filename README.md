@@ -47,5 +47,5 @@
  [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pureddylavanya2002@gmail.com)](mailto:pureddylavanya2002@gmail.com)&nbsp; &nbsp; 
 [![leetcode](https://img.shields.io/badge/-Leetcode-FFA119?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Lavanyap89/)
 [![GitHub followers](https://img.shields.io/github/followers/PureddyLavanya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PureddyLavanya?tab=followers)
-<br>
+<br><br>
 ⭐️ From <a href="https://github.com/PureddyLavanya">PureddyLavanya</a>
