@@ -27,7 +27,7 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <br><br>
   Programming Languages I know <br>
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+&nbsp; <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> &nbsp; <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <br><br>
 <a href="https://github.com/PureddyLavanya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureddyLavanya&theme=dark&hide_langs_below=1" />
@@ -42,8 +42,9 @@
 <br>
 
 ##  Contact Me :speech_balloon:
- [![Linkedin Badge](https://img.shields.io/badge/-PureddyLavanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-lavanya-3147p/)](https://www.linkedin.com/in/p-lavanya-3147p/) 
-[![Gmail Badge](https://img.shields.io/badge/-pureddylavanya2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pureddylavanya2002@gmail.com)](mailto:pureddylavanya2002@gmail.com) 
+[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-lavanya-3147p/)](https://www.linkedin.com/in/p-lavanya-3147p/)&nbsp; &nbsp;
+ [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pureddylavanya2002@gmail.com)](mailto:pureddylavanya2002@gmail.com)&nbsp; &nbsp; 
+[![leetcode](https://img.shields.io/badge/-Leetcode-FFA119?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode-cn.com/Lavanyap89/)
 [![GitHub followers](https://img.shields.io/github/followers/PureddyLavanya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PureddyLavanya?tab=followers)
 
 
