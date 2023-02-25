@@ -30,7 +30,7 @@
 &nbsp; <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> &nbsp; <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <br><br>
 <a href="https://github.com/PureddyLavanya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureddyLavanya&theme=dark&bg_color=8A2BE2&text_color=blue&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureddyLavanya&theme=dark&bg_color=8A2BE2&text_color=ivory&hide_langs_below=1" />
 </a>
 <br><br>
 <a href="https://github.com/PureddyLavanya">![PureddyLavanya's github stats](https://github-readme-stats.vercel.app/api?username=PureddyLavanya&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
