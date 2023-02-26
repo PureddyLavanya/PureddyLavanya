@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on open source project
 
-👨‍💻 All of my projects are available at <a href="https://github.com/PureddyLavanya"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF&bgcolor=purple"></a>
+👨‍💻 All of my projects are available at <a href="https://github.com/PureddyLavanya"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=ivory&bgcolor=purple"></a>
 
 💬 Ask me about html,css,javascript
 
