@@ -24,7 +24,8 @@
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">&nbsp; 
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">&nbsp; 
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">&nbsp; 
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > 
 <br><br>
   Programming Languages : <br><br>
 &nbsp; &nbsp; <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> &nbsp;
@@ -42,7 +43,7 @@
 [![HitCount](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya.svg)](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya)
 <br>
 
-##  Contact Me :speech_balloon:
+##  Visit My Profiles :
 [![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-lavanya-3147p/)](https://www.linkedin.com/in/p-lavanya-3147p/)&nbsp; &nbsp;
  [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pureddylavanya2002@gmail.com)](mailto:pureddylavanya2002@gmail.com)&nbsp; &nbsp; 
 [![leetcode](https://img.shields.io/badge/-Leetcode-FFA119?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Lavanyap89/)
