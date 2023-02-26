@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on open source project
 
-👨‍💻 All of my projects are available at <a href="https://github.com/PureddyLavanya"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=ivory&bgcolor=purple"></a>
+👨‍💻 All of my projects are available at <a href="https://github.com/PureddyLavanya"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
 
 💬 Ask me about html,css,javascript
 
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">&nbsp; 
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">&nbsp; 
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF&bgcolor=purple">&nbsp; 
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF&bgcolor=purple">&nbsp; 
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">&nbsp; 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > 
 <br><br>
