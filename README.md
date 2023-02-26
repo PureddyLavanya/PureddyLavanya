@@ -29,7 +29,8 @@
 
   Programming Languages : <br><br>
 &nbsp; &nbsp; <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> &nbsp; 
+<img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> &nbsp;
+<img src="https://img.shields.io/badge/-C-659ad2?style=flat&logo=c%2B&logoColor=ffffff"> &nbsp;
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <br><br>
 <a href="https://github.com/PureddyLavanya">
