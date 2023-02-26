@@ -12,7 +12,7 @@
 
 💬 Ask me about html,css,javascript
 
-📫 How to reach me: pureddylavanya2002@gmail.com
+📫 How to reach me: &nbsp;[![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pureddylavanya2002@gmail.com)](mailto:pureddylavanya2002@gmail.com)
 
 ⚡ Fun fact:Never miss debugging your code
 
@@ -45,8 +45,7 @@
 
  Contact Me :<br>
 [![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-lavanya-3147p/)](https://www.linkedin.com/in/p-lavanya-3147p/)&nbsp; &nbsp;
- [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pureddylavanya2002@gmail.com)](mailto:pureddylavanya2002@gmail.com)&nbsp; &nbsp; 
-[![leetcode](https://img.shields.io/badge/-Leetcode-FFA119?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Lavanyap89/)
+ [![leetcode](https://img.shields.io/badge/-Leetcode-FFA119?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Lavanyap89/)
 [![GitHub followers](https://img.shields.io/github/followers/PureddyLavanya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PureddyLavanya?tab=followers)
 <br><br>
 ⭐️ From <a href="https://github.com/PureddyLavanya">PureddyLavanya</a>
