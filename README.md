@@ -47,6 +47,8 @@
 Visit My Profiles:<br><br>
 &nbsp;&nbsp;[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-lavanya-3147p/)](https://www.linkedin.com/in/p-lavanya-3147p/)&nbsp; 
  [![leetcode](https://img.shields.io/badge/-Leetcode-FFA119?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Lavanyap89/)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/PureddyLavanya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PureddyLavanya?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/PureddyLavanya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PureddyLavanya?tab=followers)&nbsp;
+<a href="https://www.hackerrank.com/pureddylavanya21
+"><i class="fa-brands fa-hackerrank"></i></a>
 <br><br>
 ⭐️ From <a href="https://github.com/PureddyLavanya">PureddyLavanya</a>
