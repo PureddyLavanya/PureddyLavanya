@@ -52,7 +52,7 @@ Visit My Profiles:<br><br>
  [![CodeChef](https://img.shields.io/badge/-CodeChef-beige?style=flat-square&logo=codechef&logoColor=grey)](https://www.codechef.com/users/pureddylavanya)&nbsp;
  [![HackerEarth](https://img.shields.io/badge/-HackerEarth-blue?style=flat-square&logo=hackerearth&logoColor=White)](https://www.hackerearth.com/@PureddyLavanya)&nbsp;
  [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=hackerrank&logoColor=blue)](https://www.hackerrank.com/Lavanya7133?hr_r=1)&nbsp;
- [![CodeSignal](https://img.shields.io/badge/-CodeSignal-skyblue?style=flat-square&logo=codesignal&logoColor=White)](https://app.codesignal.com/profile/plavanya33)&nbsp;
+ [![CodeSignal](https://img.shields.io/badge/-CodeSignal-blue?style=flat-square&logo=codesignal&logoColor=White)](https://app.codesignal.com/profile/plavanya33)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/PureddyLavanya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PureddyLavanya?tab=followers)
 <br><br>
 ⭐️ From <a href="https://github.com/PureddyLavanya">PureddyLavanya</a>
