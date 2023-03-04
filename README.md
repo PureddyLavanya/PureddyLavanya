@@ -8,8 +8,8 @@
  
  
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya)](https://github.com/PureddyLavanya/github-profile-trophy)
-      <br><br>
+ <a href="https://github.com/PureddyLavanya">[![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya)](https://github.com/PureddyLavanya/github-profile-trophy)
+     </a> <br><br>
       
       
 🔭 I’m currently working on improving my skills
