@@ -1,4 +1,4 @@
-<p align="center"><h1 align="center"> Hi 👋  I'm Pureddy Lavanya</h1>
+<p align="center"><h1 align="center">💫 I'm Pureddy Lavanya 💫</h1>
 <h3 align="center">A passionate Full Stack Web Developer and Python Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=PureddyLavanya)
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > 
 <br><br>
 
-  Programming Languages : <br><br>
+ 🖥️ Programming Languages : <br><br>
 &nbsp; &nbsp; <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=black"> &nbsp;
 <img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c++&logoColor=ffffff"> &nbsp;
 <img src="https://img.shields.io/badge/-C-659ad2?style=flat&logo=c&logoColor=ffffff"> &nbsp;
