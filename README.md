@@ -1,4 +1,4 @@
-<p align="center"><h1 align="center"> 🌠 I'm Pureddy Lavanya</h1>
+<p align="center"><h1 align="center"> Hi  I'm Pureddy Lavanya</h1>
 <h3 align="center">A passionate Full Stack Web Developer and Python Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=PureddyLavanya)
@@ -52,11 +52,6 @@
 <br><br>
 
  <a href="http://www.github.com/PureddyLavanya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PureddyLavanya&stroke=ffffff&background=8A2BE2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<br>
-
-<a href="https://github.com/PureddyLavanya">![PureddyLavanya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PureddyLavanya&layout=compact&theme=blue-green)
-         </a>
-
 <br>
 
 <a href="http://www.github.com/PureddyLavanya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=PureddyLavanya&bg_color=8A2BE2&color=ffffff&line=FFD700&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
