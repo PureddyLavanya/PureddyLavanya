@@ -4,7 +4,7 @@
 :trophy: Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya&theme=onedark)](https://github.com/PureddyLavanya/github-profile-trophy)
 <br><br>
-https://komarev.com/ghpvc/?username=PureddyLavanya
+![](https://komarev.com/ghpvc/?username=PureddyLavanya)<br><br>
 🔭 I’m currently working on improving my skills
 
 🌱 I’m currently learning MERN,Django,Python 
