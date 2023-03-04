@@ -5,8 +5,9 @@
 ---
 
 ### :trophy: Trophies:
-
-     [![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya&theme=gruvbox)](https://github.com/PureddyLavanya/github-profile-trophy)
+ 
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya&theme=gruvbox)](https://github.com/PureddyLavanya/github-profile-trophy)
       <br><br>
 🔭 I’m currently working on improving my skills
 
