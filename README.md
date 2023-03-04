@@ -2,9 +2,10 @@
 <h3 align="center">A passionate Full Stack Web Developer and Python Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=PureddyLavanya)  
+---
 
-<br><br>
-###:trophy 🏆 Trophies:
+### :trophy: Trophies:
+
      [![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya&theme=gruvbox)](https://github.com/PureddyLavanya/github-profile-trophy)
       <br><br>
 🔭 I’m currently working on improving my skills
