@@ -1,4 +1,4 @@
-<p align="center"><h1 align="center"> Hi  I'm Pureddy Lavanya</h1>
+<p align="center"><h1 align="center"> Hi 👋  I'm Pureddy Lavanya</h1>
 <h3 align="center">A passionate Full Stack Web Developer and Python Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=PureddyLavanya)
