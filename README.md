@@ -54,7 +54,8 @@
  <a href="http://www.github.com/PureddyLavanya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PureddyLavanya&stroke=ffffff&background=8A2BE2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br>
 
-![PureddyLavanya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PureddyLavanya&layout=compact&theme=blue-green)
+<a href="https://github.com/PureddyLavanya">![PureddyLavanya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PureddyLavanya&layout=compact&theme=blue-green)
+         </a>
 
 <br>
 
