@@ -1,14 +1,17 @@
-<p align="center"><h1 align="center">Hi 👋, I'm Pureddy Lavanya</h1>
+<p align="center"><h1 align="center"> 🌠, I'm Pureddy Lavanya</h1>
 <h3 align="center">A passionate Full Stack Web Developer and Python Developer</h3>
 
-![](https://komarev.com/ghpvc/?username=PureddyLavanya)  
----
+![](https://komarev.com/ghpvc/?username=PureddyLavanya)
+<br>
 
 ### :trophy: Trophies:
  
  
+ 
  [![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya&theme=gruvbox)](https://github.com/PureddyLavanya/github-profile-trophy)
       <br><br>
+      
+      
 🔭 I’m currently working on improving my skills
 
 🌱 I’m currently learning MERN,Django,Python 
@@ -47,12 +50,17 @@
 <a href="https://github.com/PureddyLavanya">![PureddyLavanya's github stats](https://github-readme-stats.vercel.app/api?username=PureddyLavanya&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
  </a>
 <br><br>
+
  <a href="http://www.github.com/PureddyLavanya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PureddyLavanya&stroke=ffffff&background=8A2BE2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br><br>
 <a href="http://www.github.com/PureddyLavanya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=PureddyLavanya&bg_color=8A2BE2&color=ffffff&line=FFD700&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <br><br>
+
+
 [![HitCount](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya.svg)](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya)
 <br><br>
+
+
 Visit My Profiles:<br><br>
 &nbsp;&nbsp;[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-lavanya-3147p/)](https://www.linkedin.com/in/p-lavanya-3147p/)&nbsp; 
  [![leetcode](https://img.shields.io/badge/-Leetcode-FFA119?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Lavanyap89/)&nbsp;
@@ -61,4 +69,5 @@ Visit My Profiles:<br><br>
  [![HackerRank](https://img.shields.io/badge/-HackerRank-blue?style=flat-square&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/Lavanya7133?hr_r=1)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/PureddyLavanya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PureddyLavanya?tab=followers)
 <br><br>
+
 ⭐️ From <a href="https://github.com/PureddyLavanya">PureddyLavanya</a>
