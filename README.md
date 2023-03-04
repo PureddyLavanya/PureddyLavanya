@@ -1,7 +1,6 @@
 <p align="center"><h1 align="center">Hi 👋, I'm Pureddy Lavanya</h1>
 <h3 align="center">A passionate Full Stack Web Developer and Python Developer</h3>
-<br>
-![](https://komarev.com/ghpvc/?username=PureddyLavanya) <br><br>
+![](https://komarev.com/ghpvc/?username=PureddyLavanya)  <br>
 🔭 I’m currently working on improving my skills
 
 🌱 I’m currently learning MERN,Django,Python 
