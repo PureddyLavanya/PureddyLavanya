@@ -25,8 +25,9 @@
 📫 How to reach me: &nbsp;[![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pureddylavanya2002@gmail.com)](mailto:pureddylavanya2002@gmail.com)
 
 ⚡ Fun fact:Never miss debugging your code
-<br><br>
-🛠️ Tech & Tools Preference : <br><br>
+<br><br><br>
+
+🛠️ Tech & Tools Preference : <br>
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">&nbsp; 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">&nbsp; 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">&nbsp; 
@@ -35,9 +36,9 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">&nbsp; 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > 
-<br><br>
+<br><br><br>
 
- 🖥️ Programming Languages : <br><br>
+ 🖥️ Programming Languages : <br>
 &nbsp; &nbsp; <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=black"> &nbsp;
 <img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c++&logoColor=ffffff"> &nbsp;
 <img src="https://img.shields.io/badge/-C-659ad2?style=flat&logo=c&logoColor=ffffff"> &nbsp;
@@ -52,7 +53,7 @@
 <br><br>
 
  <a href="http://www.github.com/PureddyLavanya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PureddyLavanya&stroke=ffffff&background=8A2BE2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<br>
+<br><br>
 
 <a href="http://www.github.com/PureddyLavanya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=PureddyLavanya&bg_color=8A2BE2&color=ffffff&line=FFD700&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <br><br>
