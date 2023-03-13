@@ -35,7 +35,8 @@
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF&bgcolor=purple">&nbsp; 
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">&nbsp; 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > 
+<img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-nodejs-5466b8?style=flat&logo=nodejs&logoColor=white">
 <br><br>
 
  🖥️ Programming Languages : <br><br>
