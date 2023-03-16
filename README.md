@@ -70,7 +70,7 @@ Others:<br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureddyLavanya&theme=dark&bg_color=8A2BE2&text_color=ffffff&title_color=fff&icon_color=FFD700&hide_langs_below=1" />
 </a>
 <br><br>
-<a href="https://github.com/PureddyLavanya">![PureddyLavanya's github stats]<img align="center" src="https://github-readme-stats.vercel.app/api?username=PureddyLavanya08&&show_icons=true&ring=0891b2&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2"/></a>
+<a href="https://github.com/PureddyLavanya">![PureddyLavanya's github stats]<img align="center" src="https://github-readme-stats.vercel.app/api?username=PureddyLavanya&&show_icons=true&ring=0891b2&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2"></a>
 <br><br>
 
  <a href="http://www.github.com/PureddyLavanya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PureddyLavanya&stroke=ffffff&background=8A2BE2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
