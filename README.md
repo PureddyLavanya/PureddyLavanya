@@ -9,8 +9,7 @@
  
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya)](https://github.com/PureddyLavanya/github-profile-trophy)
-      <br><br>
-      
+      <br><br>      
       
 🔭 I’m currently working on improving my skills
 
