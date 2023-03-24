@@ -67,7 +67,7 @@ Others:<br>
 <br><br>
 
 <a href="https://github.com/PureddyLavanya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureddyLavanya&theme=dark&bg_color=8A2BE2&text_color=ffffff&title_color=fff&icon_color=FFD700&hide_langs_below=1" />
+ <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureddyLavanya&theme=dark&bg_color=8A2BE2&text_color=ffffff&title_color=fff&icon_color=FFD700&hide_langs_below=1" />
 </a>
 <br><br>
 <a href="https://github.com/PureddyLavanya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PureddyLavanya&&show_icons=true&ring=0891b2&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2"></a>
