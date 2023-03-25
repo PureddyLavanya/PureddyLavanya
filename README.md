@@ -8,7 +8,7 @@
  
  
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya)](https://github.com/PureddyLavanya/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya)](https://github.com/PureddyLavanya)
       <br><br><br>
       
       
