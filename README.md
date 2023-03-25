@@ -5,11 +5,9 @@
 <br>
 
 ### :trophy: Trophies:
- 
- 
- 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya)](https://github.com/PureddyLavanya)
-      <br><br>  
+      <br>
 🔭 I’m currently working on improving my skills
 
 🌱 I’m currently learning MERN,Django,Python 
