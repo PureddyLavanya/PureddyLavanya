@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya)](https://github.com/PureddyLavanya)
       <br><br>
-🔭 I’m currently working on improving my skills
+🔭 I’m currently working on python projects
 
 🌱 I’m currently learning MERN,Django,Python 
 
