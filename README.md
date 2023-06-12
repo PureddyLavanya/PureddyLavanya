@@ -39,7 +39,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)&nbsp;
-![C++](https://img.shields.io/badge/-Cplusplus-333333?style=flat&logo=c++)&nbsp;
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 <br><br>
