@@ -24,8 +24,12 @@
 <br><br>
 
 🛠️ Tools And Skills:<br><br>
-[![html](https://img.shields.io/badge/-Html-c14438?style=flat-square&logo=html&logoColor=white&link=https://github.com/PureddyLavanya)](https://github.com/PureddyLavanya)
-
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
+<br><br>
 <a href="https://github.com/PureddyLavanya">
  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureddyLavanya&theme=dark&bg_color=8A2BE2&text_color=ffffff&title_color=fff&icon_color=FFD700&hide_langs_below=1" />
 </a>
