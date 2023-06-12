@@ -24,7 +24,7 @@
 <br><br>
 
 🛠️ Tools And Skills:<br><br>
-[![html](https://img.shields.io/badge/-Html-c14438?style=flat-square&logo=Html&logoColor=white&link=https://github.com/PureddyLavanya)](https://github.com/PureddyLavanya)
+[![html](https://img.shields.io/badge/-Html-c14438?style=flat-square&logo=html&logoColor=white&link=https://github.com/PureddyLavanya)](https://github.com/PureddyLavanya)
 
 <a href="https://github.com/PureddyLavanya">
  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureddyLavanya&theme=dark&bg_color=8A2BE2&text_color=ffffff&title_color=fff&icon_color=FFD700&hide_langs_below=1" />
