@@ -32,7 +32,7 @@ Programming Languages:<br>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> &nbsp;
 
 Frontend Development:<br>
-&nbsp;[![html](https://img.shields.io/badge/-html-blue?style=flat-square&logo=html&logoColor=white&link=https://github.com/PureddyLavanya)](https://github.com/PureddyLavanya)&nbsp;
+&nbsp;[![html](https://img.shields.io/badge/-html-blue?style=flat-square&logo=Html&logoColor=white&link=https://github.com/PureddyLavanya)](https://github.com/PureddyLavanya)&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
