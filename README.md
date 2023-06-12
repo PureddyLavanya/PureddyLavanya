@@ -66,9 +66,9 @@
 <br><br>
 
 Visit My Profiles:<br><br>
-&nbsp;&nbsp;[![linkein](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-lavanya-3147p/)](https://www.linkedin.com/in/p-lavanya-3147p/)&nbsp; 
+&nbsp;&nbsp;[![linkein](https://img.shields.io/badge/-LinkedIn?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-lavanya-3147p/)](https://www.linkedin.com/in/p-lavanya-3147p/)&nbsp; 
  [![leetcode](https://img.shields.io/badge/-Leetcode-333333?style=flat-square&logo=leetcode)](https://leetcode.com/Lavanyap89/)&nbsp;
- [![CodeChef](https://img.shields.io/badge/-CodeChef-333333?style=flat-square&logo=codechef&logoColor=grey)](https://www.codechef.com/users/pureddylavanya)&nbsp;
+ [![CodeChef](https://img.shields.io/badge/-CodeChef-333333?style=flat-square&logo=codechef)](https://www.codechef.com/users/pureddylavanya)&nbsp;
  [![HackerEarth](https://img.shields.io/badge/-HackerEarth-333333?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@PureddyLavanya)&nbsp;
  [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat-square&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/Lavanya7133?hr_r=1)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/PureddyLavanya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PureddyLavanya?tab=followers)
