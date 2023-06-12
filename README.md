@@ -66,7 +66,7 @@
 <br><br>
 
 Visit My Profiles:<br><br>
-&nbsp;&nbsp;[![linkein](https://img.shields.io/badge/-LinkedIn?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-lavanya-3147p/)](https://www.linkedin.com/in/p-lavanya-3147p/)&nbsp; 
+&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-lavanya-3147p/)](https://www.linkedin.com/in/p-lavanya-3147p/)&nbsp; 
  [![leetcode](https://img.shields.io/badge/-Leetcode-333333?style=flat-square&logo=leetcode)](https://leetcode.com/Lavanyap89/)&nbsp;
  [![CodeChef](https://img.shields.io/badge/-CodeChef-333333?style=flat-square&logo=codechef)](https://www.codechef.com/users/pureddylavanya)&nbsp;
  [![HackerEarth](https://img.shields.io/badge/-HackerEarth-333333?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@PureddyLavanya)&nbsp;
