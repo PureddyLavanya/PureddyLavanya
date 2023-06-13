@@ -4,15 +4,15 @@
 ![](https://komarev.com/ghpvc/?username=PureddyLavanya)
 <br>
 
-### :trophy: Trophies:
+### :trophy: `Trophies`:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya)](https://github.com/PureddyLavanya)
       <br><br>
-🔭 I’m currently working on python projects
+🔭 I’m currently working on `python projects`
 
-🌱 I’m currently learning MERN,Django,Python 
+🌱 I’m currently learning `MERN,Django,Python`
 
-👯 I’m looking to collaborate on open source project
+👯 I’m looking to collaborate on `open source project`
 
 👨‍💻 All of my projects are available at <a href="https://github.com/PureddyLavanya"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
 
@@ -23,7 +23,7 @@
 ⚡ Fun fact:Never miss debugging your code
 <br><br>
 
-🛠️ Tools And Skills:<br><br>
+🛠️ `Tools And Skills`:<br><br>
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
@@ -59,11 +59,11 @@
 
 <a href="http://www.github.com/PureddyLavanya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=PureddyLavanya&bg_color=8A2BE2&color=ffffff&line=FFD700&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <br><br>
-
+`Hits Count`:
 &nbsp; [![HitCount](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya.svg)](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya)
 <br><br>
 
-Visit My Profiles:<br><br>
+`Visit My Profiles`:<br><br>
 &nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p-lavanya-3147p/)](https://www.linkedin.com/in/p-lavanya-3147p/)&nbsp; 
  [![leetcode](https://img.shields.io/badge/-Leetcode-333333?style=flat-square&logo=leetcode)](https://leetcode.com/Lavanyap89/)&nbsp;
  [![CodeChef](https://img.shields.io/badge/-CodeChef-333333?style=flat-square&logo=codechef)](https://www.codechef.com/users/pureddylavanya)&nbsp;
