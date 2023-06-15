@@ -59,7 +59,7 @@
 
 <a href="http://www.github.com/PureddyLavanya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=PureddyLavanya&bg_color=8A2BE2&color=ffffff&line=FFD700&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <br><br>
-`Hits Count`:<br>
+`Hits Count`:<br><br>
 &nbsp; [![HitCount](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya.svg)](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya)
 <br><br>
 
