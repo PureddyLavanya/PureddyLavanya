@@ -8,9 +8,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya)](https://github.com/PureddyLavanya)
       <br><br>
-🔭 I’m currently working on `Angular Projects`
+🔭 I’m currently working on `Angular,React Projects`
 
-🌱 I’m currently learning `Angular`
+🌱 I’m currently learning `Angular,React`
 
 👯 I’m looking to collaborate on `open source project`
 
